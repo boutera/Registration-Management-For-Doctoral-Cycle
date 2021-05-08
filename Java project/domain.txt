@@ -1,0 +1,52 @@
+2,Java,0
+3,Java 1,2
+4,Java 2,2
+5,Java 3,2
+6,Java 4,2
+7,Java5,2
+8,Python,-1
+9,Python 1,8
+10,Python 2,8
+11,Python 3,8
+12,react js,-1
+13,react js 1,12
+14,react js2,12
+15,react js 3,12
+16,react js 4,12
+17,Assembleur,-1
+18,Assembleur 1,17
+19,Assembleur 2,17
+20,Assembleur 3,17
+21,Javascript,0
+22,Nodejs,21
+23,Vuejs,21
+24,reactjs,21
+25,Express.js,21
+27,C++ 1,26
+28,C++2,26
+29, C++ 3,26
+30,C++ 4,26
+31,C++ 5,26
+32,front end,-1
+33,react js,32
+34,angular js,32
+35,Vue js,32
+36,JQuery,32
+37,javascript,32
+38,informatique,-1
+39,info 1,38
+40,info 2,38
+41,info 3,38
+42,Machine learning,-1
+43,deep learning,42
+44,IA,42
+45,machine learning,-1
+46,deep learning,45
+47,IA,45
+48,gg,-1
+49,g,48
+50,gg,-1
+51,g,50
+52,machine learning,-1
+53,deep learning,52
+54,IA,52
